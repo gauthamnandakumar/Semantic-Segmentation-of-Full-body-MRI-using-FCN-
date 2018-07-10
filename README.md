@@ -1,5 +1,5 @@
 # Semantic-Segmentation-of-Full-body-MRI-using-FCN-
-Procedure to excecte the files. 
+Procedure to excecte the Convolution_Fully_Network.py. 
 Set the training folder and Validation folder that contains subfolder Images & Annotations in each.
 Set the Model folder to where the vgg weights are going to be downloaded.
 Finally set the logs_dir and then Prediction_dir where the test results are going to be saved.
