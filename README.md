@@ -6,4 +6,4 @@ Finally set the logs_dir and then Prediction_dir where the test results are goin
 The code can handle images of any size. 
 Important imformation - Make sure the images and its respectve annotations are the same size. 
 Now the implementation only includes the segmentation of muscles. Soon will update segmentation of Adipose tissue, Bone & Organs. 
-The results folder consists of few examples of successful segmentation. The results are after just few epoch training of the model. Will update soon with better results. 
+The results file consists of few examples of successful segmentation. The results are after just few epoch training of the model. Will update soon with better results. 
